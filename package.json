@@ -1,0 +1,25 @@
+{
+  "name": "h5demo",
+  "version": "1.0.0",
+  "description": "H5通用开发代码",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-font-spider": "^0.3.6",
+    "gulp-livereload": "^3.8.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2"
+  },
+  "scripts": {
+    "test": "h5test"
+  },
+  "author": "people",
+  "license": "ISC"
+}
